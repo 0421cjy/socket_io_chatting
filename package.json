@@ -1,0 +1,24 @@
+{
+  "name": "jinyong",
+  "version": "1.0.0",
+  "description": "chatting_test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0421cjy/socket_io_chatting.git"
+  },
+  "author": "jinyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0421cjy/socket_io_chatting/issues"
+  },
+  "homepage": "https://github.com/0421cjy/socket_io_chatting#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  }
+}
