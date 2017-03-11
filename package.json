@@ -1,7 +1,11 @@
 {
   "name": "jinyong",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "chatting_test",
+>>>>>>> origin/master
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +15,22 @@
     "type": "git",
     "url": "git+https://github.com/0421cjy/socket_io_chatting.git"
   },
+<<<<<<< HEAD
   "author": "jin",
+=======
+  "author": "jinyong",
+>>>>>>> origin/master
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/0421cjy/socket_io_chatting/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/0421cjy/socket_io_chatting#readme"
+=======
+  "homepage": "https://github.com/0421cjy/socket_io_chatting#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  }
+>>>>>>> origin/master
 }
